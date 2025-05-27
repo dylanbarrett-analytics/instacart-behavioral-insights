@@ -1,6 +1,6 @@
 -- ================================================================================
 -- File: 02_import_data.sql
--- Project: Instacart Market Basket Behavior Analysis
+-- Project: Instacart Behavioral Buying Patterns
 -- Author: Dylan Barrett
 -- Last Updated: May 12, 2025
 --
