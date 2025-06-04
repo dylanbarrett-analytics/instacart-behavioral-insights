@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-This project explores customer behavior on Instacart, a leading online grocery platform, by analyzing over 3 million grocery orders placed by almost 200,000 users. While earlier portfolio projects focused on straightforward KPIs and business segmentation, this project takes a more advanced behavioral approach that uncovers psychological triggers and shopping patterns that drive repeat purchasing and larger orders.
+This project explores individual customer behavior on Instacart, a leading online grocery platform, by analyzing over 3 million grocery orders placed by almost 200,000 users. While earlier portfolio projects focused on straightforward KPIs and business segmentation, this project takes a more advanced behavioral approach that uncovers psychological triggers and shopping patterns that drive repeat purchasing and larger orders.
 
 ### **What is Instacart?**
 
