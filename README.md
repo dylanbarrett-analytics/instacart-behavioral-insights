@@ -428,4 +428,4 @@ Watching these abstract ideas slowly become reality over a couple of weeks is a 
 
 ## **Dashboard**
 
-[Instacart Product Buying Patterns (Tableau Public)](https://public.tableau.com/app/profile/dylan.barrett1539/viz/InstacartProductBuyingPatterns/Dashboard)
+[Instacart Product Buying Patterns (Tableau Public)](https://public.tableau.com/app/profile/dylan.barrett1539/viz/InstacartBehavioralBuyingPatterns/Dashboard)
